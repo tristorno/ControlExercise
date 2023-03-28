@@ -1,0 +1,15 @@
+/home/vlad/Документы/Geekbrains/Control/programm/bin/Debug/net6.0/programm
+/home/vlad/Документы/Geekbrains/Control/programm/bin/Debug/net6.0/programm.deps.json
+/home/vlad/Документы/Geekbrains/Control/programm/bin/Debug/net6.0/programm.runtimeconfig.json
+/home/vlad/Документы/Geekbrains/Control/programm/bin/Debug/net6.0/programm.dll
+/home/vlad/Документы/Geekbrains/Control/programm/bin/Debug/net6.0/ref/programm.dll
+/home/vlad/Документы/Geekbrains/Control/programm/bin/Debug/net6.0/programm.pdb
+/home/vlad/Документы/Geekbrains/Control/programm/obj/Debug/net6.0/programm.csproj.AssemblyReference.cache
+/home/vlad/Документы/Geekbrains/Control/programm/obj/Debug/net6.0/programm.GeneratedMSBuildEditorConfig.editorconfig
+/home/vlad/Документы/Geekbrains/Control/programm/obj/Debug/net6.0/programm.AssemblyInfoInputs.cache
+/home/vlad/Документы/Geekbrains/Control/programm/obj/Debug/net6.0/programm.AssemblyInfo.cs
+/home/vlad/Документы/Geekbrains/Control/programm/obj/Debug/net6.0/programm.csproj.CoreCompileInputs.cache
+/home/vlad/Документы/Geekbrains/Control/programm/obj/Debug/net6.0/programm.dll
+/home/vlad/Документы/Geekbrains/Control/programm/obj/Debug/net6.0/ref/programm.dll
+/home/vlad/Документы/Geekbrains/Control/programm/obj/Debug/net6.0/programm.pdb
+/home/vlad/Документы/Geekbrains/Control/programm/obj/Debug/net6.0/programm.genruntimeconfig.cache
